@@ -35,3 +35,11 @@ opt/onnxruntime_vendor/
   include/   # ONNX Runtime headers
   lib/       # libonnxruntime.so and related libraries
 ```
+
+### Licensing
+
+This package is part of a larger project licensed under the Apache License 2.0 (see the top-level `LICENSE` file).
+
+ONNX Runtime itself is developed by Microsoft Corporation and distributed under the MIT License. The prebuilt ONNX Runtime binaries and headers used by this vendor package are obtained from the official `microsoft/onnxruntime` GitHub releases.
+
+For the full ONNX Runtime license text, see `LICENSE-ONNXRUNTIME` in this directory.
